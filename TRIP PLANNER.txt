@@ -1,0 +1,28 @@
+RECORD HISTORY:
+User name:sarvesh
+Departure city: DELHI
+Departure city: CHENNAI
+Mode of transport: Train
+Travel bill:Rs 2125
+Return bill:Rs 2800
+Hotel bill:Rs 2700
+Total bill:Rs 7625
+-----------------------
+User name:Lomesh
+Departure city: MUMBAI
+Departure city: CHENNAI
+Mode of transport: Train
+Travel bill:Rs 2125
+Return bill:Rs 3850
+Hotel bill:Rs 3330
+Total bill:Rs 9305
+-----------------------
+User name:Raj
+Departure city: CHENNAI
+Departure city: MUMBAI
+Mode of transport: Airplane
+Travel bill:Rs 4800
+Return bill:Rs 2800
+Hotel bill:Rs 1700
+Total bill:Rs 9300
+-----------------------
